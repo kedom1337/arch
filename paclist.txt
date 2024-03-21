@@ -4,12 +4,9 @@ ttf-jetbrains-mono-nerd
 
 whois
 firewalld
-fwupd
 
 cups
 cups-pdf
-cups-filters
-cups-pk-helper
 system-config-printer
 gutenprint
 foomatic-db
@@ -20,10 +17,6 @@ foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 ghostscript
 gsfonts
-python-pillow
-python-pip
-python-pyqt5
-python-reportlab
 
 firefox
 chromium
@@ -48,3 +41,5 @@ ripgrep
 eza
 man-db
 man-pages
+fwupd
+reflector
