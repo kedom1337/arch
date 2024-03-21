@@ -1,0 +1,4 @@
+goxlr-utility
+kwin-polonium
+fswatch
+spotify
