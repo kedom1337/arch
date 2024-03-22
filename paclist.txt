@@ -42,3 +42,4 @@ man-db
 man-pages
 fwupd
 reflector
+power-profiles-daemon
