@@ -41,3 +41,5 @@ man-pages
 fwupd
 reflector
 power-profiles-daemon
+fzf
+xclip
