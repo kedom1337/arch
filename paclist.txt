@@ -43,3 +43,4 @@ reflector
 power-profiles-daemon
 fzf
 xclip
+unzip
