@@ -44,3 +44,4 @@ power-profiles-daemon
 fzf
 xclip
 unzip
+spectacle
