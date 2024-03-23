@@ -1,3 +1,8 @@
+> [!NOTE]
+>
+> These packages are inteded to complement an install made with [archinstall](https://github.com/archlinux/archinstall)
+> using btrfs and the KDE Plasma 6 desktop preset
+
 ## Installation
 Enable color and parallel downloads for pacman (optional)
 
