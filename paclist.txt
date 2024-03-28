@@ -46,3 +46,4 @@ xclip
 unzip
 spectacle
 thunderbird
+calibre
