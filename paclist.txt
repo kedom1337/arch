@@ -25,7 +25,7 @@ aspell
 aspell-en
 aspell-de
 libreoffice-fresh
-discord
+vesktop
 bitwarden
 okular
 ksystemlog
@@ -45,3 +45,4 @@ fzf
 xclip
 unzip
 spectacle
+thunderbird
