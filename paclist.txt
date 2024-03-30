@@ -1,3 +1,4 @@
+noto-fonts-cjk
 ttf-jetbrains-mono-nerd
 
 whois
@@ -47,3 +48,4 @@ unzip
 spectacle
 thunderbird
 calibre
+gwenview
