@@ -5,3 +5,4 @@ inotify-tools
 snapper-support
 arkenfox-user.js
 btrfs-assistant
+fswatch
