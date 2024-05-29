@@ -1,5 +1,4 @@
 goxlr-utility
-kwin-polonium
 spotify
 inotify-tools
 snapper-support
