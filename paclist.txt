@@ -19,12 +19,12 @@ gsfonts
 
 firefox
 chromium
-neofetch
+fastfetch
 qbittorrent
 rssguard-lite
-aspell
-aspell-en
-aspell-de
+hunspell
+hunspell-de
+hunspell-en_us
 libreoffice-fresh
 vesktop
 bitwarden
